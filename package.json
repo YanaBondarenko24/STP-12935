@@ -1,11 +1,11 @@
 {
-  "name": "STP-12935",
+  "name": "Matching_Tale",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/STP-12935/",
+    "build": "vite build --base=/Matching_Tale/",
     "preview": "vite preview",
     "build:preview": "vite build && vite preview"
   },
